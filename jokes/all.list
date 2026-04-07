@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
   - DOMAIN-SUFFIX,youtubegaming.com
+  - DOMAIN-SUFFIX,ytimg.com
 
 ## >> Discord
   - PROCESS-NAME,Discord.exe
