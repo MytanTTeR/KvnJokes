@@ -1,17 +1,17 @@
 payload:
 ## >> Youtube
-  - DOMAIN-SUFFIX,youtube.com
-  - DOMAIN-SUFFIX,youtube.googleapis.com
-  - DOMAIN-SUFFIX,googlevideo.com
-  - DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
-  - DOMAIN-SUFFIX,youtubegaming.com
-  - DOMAIN-SUFFIX,ytimg.com
-  - DOMAIN-SUFFIX,ggpht.com
+##  - DOMAIN-SUFFIX,youtube.com
+##  - DOMAIN-SUFFIX,youtube.googleapis.com
+##  - DOMAIN-SUFFIX,googlevideo.com
+##  - DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
+##  - DOMAIN-SUFFIX,youtubegaming.com
+##  - DOMAIN-SUFFIX,ytimg.com
+##  - DOMAIN-SUFFIX,ggpht.com
 
 ## >> Discord
-  - PROCESS-NAME,Discord.exe
-  - DOMAIN-SUFFIX,discord.com
-  - DOMAIN-SUFFIX,discord.gg
+##  - PROCESS-NAME,Discord.exe
+##  - DOMAIN-SUFFIX,discord.com
+##  - DOMAIN-SUFFIX,discord.gg
 
 ## >> AI
   - PROCESS-NAME,OpenCode.exe
